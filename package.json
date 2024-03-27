@@ -1,6 +1,6 @@
 {
   "name": "aliraza_2024-atm",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "This is a cli Professional ATM App created using inquirer",
   "main": "index.js",
   "type": "module",
