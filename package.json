@@ -1,0 +1,19 @@
+{
+  "name": "aliraza_2024-professional-atm-app",
+  "version": "1.0.0",
+  "description": "This is a cli Professional ATM App created using inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Raza",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
